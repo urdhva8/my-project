@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.img {
+    height: 10vh;
+}
+
+.hello:hover {
+    background-image: linear-gradient(#ffffff, black);
+}
+
+.img2 {
+    height: 30vh;
+}
+
+
+.hello2:hover {
+    background-image: linear-gradient(#ffffff, black);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.card {
+    margin-bottom: 10px;
+
+}
+
+.h1 {
+    font-size: 35px;
+}
+
+.card {
+    border-style: groove;
+    border-width: 5px;
+    
+    /* You can specify the color */
+    padding: 10px;
+    /* Optional padding for better visualization */
+
+}
+
+.bg {
+    background-color: black;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img2 {
+    height: 20vh;
+    margin: 30px;
+}
+
+.hello2:hover {
+    background-image: linear-gradient(#ffffff, black);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.card2 {
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+
+.hello2:hover {
+    background-image: linear-gradient(#ffffff, black);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
